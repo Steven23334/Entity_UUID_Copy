@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "entity_uuid_copy:item/entity_uuid_copy"
+  }
+}

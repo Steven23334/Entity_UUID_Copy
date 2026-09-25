@@ -1,0 +1,20 @@
+{
+  "item.entity_uuid_copy.entity_uuid_copy": "Entity UUID Copier",
+  "item.entity_uuid_copy.player_uuid_copy": "Player UUID Copier",
+  "tooltips.entity_uuid_copy.desc": "Right-click an entity to copy its UUID to clipboard",
+  "tooltips.entity_uuid_copy.player_uuid_copy.desc": "Right-click to open player UUID list",
+  "message.entity_uuid_copy.copied": "Copied UUID: %s",
+  "message.entity_uuid_copy.player_copied": "Copied %s's UUID: %s",
+  "gui.entity_uuid_copy.player_list.title": "Online Players UUID",
+  "gui.entity_uuid_copy.player_list.empty": "No players online",
+  "gui.entity_uuid_copy.click_to_copy": "[Click to copy]",
+  "gui.entity_uuid_copy.close": "Close",
+  "gui.entity_uuid_copy.search": "Search",
+  "gui.entity_uuid_copy.search.hint": "Type a player name or UUID...",
+  "gui.entity_uuid_copy.search.name": "Search by Name",
+  "gui.entity_uuid_copy.search.name.hint": "Type a player name...",
+  "gui.entity_uuid_copy.search.name.label": "Name",
+  "gui.entity_uuid_copy.search.uuid": "Search by UUID",
+  "gui.entity_uuid_copy.search.uuid.hint": "Type a UUID fragment...",
+  "gui.entity_uuid_copy.search.uuid.label": "UUID"
+}

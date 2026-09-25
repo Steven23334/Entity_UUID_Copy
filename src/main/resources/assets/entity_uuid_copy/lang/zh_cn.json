@@ -1,0 +1,20 @@
+{
+  "item.entity_uuid_copy.entity_uuid_copy": "实体 UUID 复制器",
+  "item.entity_uuid_copy.player_uuid_copy": "玩家 UUID 复制器",
+  "tooltips.entity_uuid_copy.desc": "右键实体复制其 UUID 到剪贴板",
+  "tooltips.entity_uuid_copy.player_uuid_copy.desc": "右键打开玩家 UUID 列表",
+  "message.entity_uuid_copy.copied": "已复制 UUID：%s",
+  "message.entity_uuid_copy.player_copied": "已复制 %s 的 UUID：%s",
+  "gui.entity_uuid_copy.player_list.title": "在线玩家 UUID",
+  "gui.entity_uuid_copy.player_list.empty": "没有在线玩家",
+  "gui.entity_uuid_copy.click_to_copy": "[点击复制]",
+  "gui.entity_uuid_copy.close": "关闭",
+  "gui.entity_uuid_copy.search": "搜索",
+  "gui.entity_uuid_copy.search.hint": "输入玩家名或 UUID 进行搜索...",
+  "gui.entity_uuid_copy.search.name": "按玩家名搜索",
+  "gui.entity_uuid_copy.search.name.hint": "输入玩家名...",
+  "gui.entity_uuid_copy.search.name.label": "玩家名",
+  "gui.entity_uuid_copy.search.uuid": "按 UUID 搜索",
+  "gui.entity_uuid_copy.search.uuid.hint": "输入 UUID 片段...",
+  "gui.entity_uuid_copy.search.uuid.label": "UUID"
+}
